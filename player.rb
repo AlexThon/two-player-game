@@ -7,6 +7,3 @@ class Player
   end
   
 end
-
-player = Player.new("1")
-puts player.name
